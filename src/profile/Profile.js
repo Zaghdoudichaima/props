@@ -13,7 +13,7 @@ function Profile(props) {
   )
 }
 Profile.defaultProps = {
-  
+  profession:"Web developper"
 };
 
 Profile.propTypes = {
